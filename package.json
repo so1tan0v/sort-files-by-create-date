@@ -1,0 +1,13 @@
+{
+    "name": "sort-files-by-create-date",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node --env-file=.env index.js",
+        "prepare": "node prepare.js"
+    },
+    "keywords": [],
+    "author": "Aleksandr Soltanov <sashasyltanov@gmail.com",
+    "license": "ISC",
+    "description": ""
+}
